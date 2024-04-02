@@ -1,2 +1,2 @@
 # Bank-Loan-Analysis
-Desciption in Py File.
+Description in Py file
